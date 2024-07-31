@@ -1,0 +1,4 @@
+name: BlockJail
+version: '${project.version}'
+author: SengyEU
+main: eu.sengy.blockjail.JailBungee

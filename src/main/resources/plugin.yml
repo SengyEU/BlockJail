@@ -1,0 +1,19 @@
+name: BlockJail
+version: '${project.version}'
+author: SengyEU
+main: eu.sengy.blockjail.JailSpigot
+depend: [NBTAPI,PlaceholderAPI]
+api-version: 1.20
+permissions:
+  jail.0:
+    description: O
+  jail.1:
+    description: 1
+  jail.2:
+    description: 2
+  jail.3:
+    description: 3
+  jail.4:
+    description: 4
+  jail.5:
+    description: 5

@@ -1,0 +1,11 @@
+jailhistory:
+  header: "<gradient:#55FFFF:#FFFFFF:#55FFFF><strikethrough>                                                  "
+  footer: "<gradient:#55FFFF:#FFFFFF:#55FFFF><strikethrough>                                                  "
+  body:
+    - ""
+    - ""
+    - ""
+    - ""
+commands:
+  nopermission: "<gradient:#55FFFF:#FFFFFF><bold>ɢᴀᴍᴇᴅʀᴇᴀᴍs <gray>» <#9bd6f9>ᴘʟᴜɢɪɴ ʙʏʟ ʀᴇʟᴏᴀᴅɴᴜᴛý"
+  reload: "<gradient:#55FFFF:#FFFFFF><bold>ɢᴀᴍᴇᴅʀᴇᴀᴍs <gray>» <#9bd6f9>ᴘʟᴜɢɪɴ ʙʏʟ ʀᴇʟᴏᴀᴅɴᴜᴛý"
